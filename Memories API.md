@@ -571,7 +571,7 @@ curl -v -X POST "http://127.0.0.1:4000/api/v1/diary" \
 
 **응답 성공**
 ```bash
-HTTP/1.1 200 OK
+HTTP/1.1 201 OK
 
 {
   "code": "SU",
@@ -611,7 +611,7 @@ HTTP/1.1 500 Internal Server Error
 
 ***
 
-#### - 내가 작성한 일기 리시트 보기  
+#### - 내가 작성한 일기 리스트 보기  
   
 ##### 설명
 
